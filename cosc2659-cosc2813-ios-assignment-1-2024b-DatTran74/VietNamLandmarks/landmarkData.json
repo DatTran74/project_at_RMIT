@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Hue Historic Citadel",
+        "category": "Historic",
+        "city": "Hue",
+        "state": "Hue",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "",
+        "coordinates": {
+            "longitude": 107.5740,
+            "latitude":16.4769
+        },
+        "description": "The Imperial City (Vietnamese: Hoàng thành; chữ Hán: 皇城) is a walled enclosure within the citadel (Kinh thành; chữ Hán: 京城) of the city of Huế, the former imperial capital of Vietnam during the Nguyễn dynasty. It contains the palaces that housed the imperial family, as well as shrines, gardens, and villas for mandarins. Constructed in 1803 under Emperor Gia Long as a new capital, it mostly served a ceremonial function during the French colonial period. After the end of the monarchy in 1945, it suffered heavy damage and neglect during the Indochina Wars through the 1980s. The Imperial City was designated as a UNESCO World Heritage Site in 1993 and is undergoing restoration.",
+        "imageName": "Hue"
+    },
+    {
+        "name": "Hoàn Kiếm Lake",
+        "category": "Lakes",
+        "city": "Ha Noi",
+        "state": "Ha Noi",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": 105.8521,
+            "latitude": 21.0287
+        },
+        "description": "Hanoi, the capital city of Vietnam, is known for its rich history, vibrant culture, and iconic landmarks. One of the most significant and picturesque sites in the heart of Hanoi is Hoan Kiem Lake, often referred to as Hồ Gươm in Vietnamese. This enchanting lake is a symbol of the city's charm and historical significance.Hoan Kiem Lake, with a surface area of approximately 12 hectares, is situated in the center of Hanoi's Old Quarter. The name Hoan Kiem translates to Lake of the Returned Sword, and the lake is steeped in legends and folklore. One of the most famous tales is about a mythical turtle, believed to inhabit the lake and hold a magical sword. According to the legend, Emperor Le Loi returned a precious sword to the Golden Turtle God in the lake, marking the lake's historical importance.The lake is not only a cultural and historical site but also a popular destination for locals and tourists alike. Ngoc Son Temple, an ancient temple located on a small island in the northern part of the lake, adds to the lake's allure. The iconic red bridge, known as The Huc Bridge, connects the temple to the shore, creating a stunning visual spectacle against the backdrop of the lake.",
+        "imageName": "Hoguom"
+    },
+    {
+        "name": "Tràng An Scenic Landscape Complex",
+        "category": "Mountains",
+        "city": "Ninh Binh",
+        "state": "Ninh Binh",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "",
+        "coordinates": {
+            "longitude": 105.9745,
+            "latitude": 20.2506
+        },
+        "description": "Trang An wharf is located 3 km south of Hoa Lu ancient capital, 7 km from Ninh Binh city to the west along Trang An boulevard, 16 km from Tam Diep city in the north through Tam Coc. Trang An - Tam Coc zone has an area of more than 6,172 ha, which is a special protection area of scenic spots. This special protection zone is located within Hoa Lu special-use forest, belonging to Hoa Lu ancient capital preservation plan and also under the planning of Trang An World Heritage site with an area of 12,252 ha. In the Trang An landscape complex, the center of Hoa Lu ancient capital in the north, Tam Coc - Bich Dong tourist area is in the south and Trang An eco-tourism area is in the central position. These three areas are linked together by Hoa Lu special-use forest on limestone mountains and rivers, lakes and swamps.",
+        "imageName": "Trangan"
+    },
+    {
+        "name": "Phong Nha Cave",
+        "category": "Cave",
+        "city": "Quang Binh",
+        "state": "Quang Binh",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Ke Bang National Park",
+        "coordinates": {
+            "longitude": 106.2823,
+            "latitude": 17.5829
+        },
+        "description": "This cave is part of Phong Nha - Ke Bang National Park, a UNESCO World Heritage Site located in Son Trach commune, Bo Trach district, about 45 kilometers away from Dong Hoi city to the Northwest. It is one of the most impressive and largest caves among numerous caves in Vietnam.Phong Nha Cave is more than 7,730 meters long. The mouth of the cave is 20-25 meters wide, about 10 meters high, and 83 meters deep. Its complicated structure contains 14 grottoes, many connecting branches, and an underground river which is considered the largest in the world. The cave has two parts: the dry caves located at an altitude of 200 meters and the wet caves with the underground river.",
+        "imageName": "Phongnha"
+    },
+    {
+        "name": "Paradise Cave",
+        "category": "Cave",
+        "city": "Quang Binh",
+        "state": "Quang Binh",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Phong Nha-Kẻ Bàng National Park",
+        "coordinates": {
+            "longitude": 106.146,
+            "latitude": 17.3235
+        },
+        "description": "Thiên Đường Cave (Paradise Cave) is a cave in Phong Nha-Kẻ Bàng National Park, UNESCO's World Heritage Site, 60 km northwest of Đồng Hới city. Thiên Đường Cave is located on an elevation of 350 meters above the sea level, near the west branch of Ho Chi Minh Highway, in Son Trach Commune, Bố Trạch District, Quảng Bình Province, Vietnam. The cave was discovered by a local man in 2005 and the first 5 km of this cave was explored by explorers from British Cave Research Association in 2005, the whole 31 km was explored and publicly announced by the British cave explorers. This cave is 31 km long, longer than Phong Nha Cave which had been considered the longest cave in this national park. The height can reach to 72 m and 150 m wide. The limestone formation is also more spectacular than that of Phong Nha Cave. The British cave explorers were impressed by the beautiful and spectacular stalactites and stalagmites inside this cave and they named it Thiên Đường Cave (Paradise Cave).In 2012, a new species of troglobiontic scorpion species, Vietbocap thienduongensis was found in here.",
+        "imageName": "Paradise"
+    },
+    {
+        "name": "Hạ Long Bay",
+        "category": "Mountains",
+        "city": "Quảng Ninh",
+        "state": "Quảng Ninh",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Cát Bà National Park",
+        "coordinates": {
+            "longitude": 107.042542,
+            "latitude":20.959902
+        },
+        "description": "The name Hạ Long (chữ Hán: 下龍) means descending dragon.Before the 19th century, the name Hạ Long Bay had not been recorded in the old books of the country. It has been called An Bang, Lục Thủy, Vân Đồn ... In the late 19th century, the name Hạ Long Bay appeared on the Maritime Map of France. The French-language Hai Phong News reported Dragon appears on Hạ Long Bay.According to local legend, when Vietnam had just started to develop into a country, they had to fight against invaders. To assist the Vietnamese in defending their country, the gods sent a family of dragons as protectors. This family of dragons began spitting out jewels and jade. These jewels turned into the islands and islets dotting the bay, linking together to form a great wall against the invaders. Under magics, numerous rock mountains abruptly appeared on the sea, ahead of invaders' ships; the forward ships struck the rocks and each other. After winning the battle, the dragons were interested in peaceful sightseeing of the Earth, and then decided to live in this bay. The place where the mother dragon descended was named Hạ Long, the place where the dragon's children attended upon their mother was called Bái Tử Long island (Bái: attend upon, Tử: children, Long: dragon), and the place where the dragon's children wriggled their tails violently was called Bạch Long Vĩ island (Bạch: white-color of the foam made when Dragon's children wriggled, Long: dragon, Vĩ: tail), present-day Tra Co peninsula, Móng Cái.[11",
+        "imageName": "Halong"
+    },
+    {
+        "name": "Mekong Delta",
+        "category": "Rivers",
+        "city": "Ho Chi Minh",
+        "state": "Can Tho",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": 105.5943,
+            "latitude": 10.0634
+        },
+        "description": "The Mekong Delta (Vietnamese: Đồng bằng Sông Cửu Long, lit. 'Nine Dragon River Delta' or simply Đồng Bằng Sông Mê Kông, 'Mekong River Delta'), also known as the Western Region (Vietnamese: Miền Tây) or South-western region (Vietnamese: Tây Nam Bộ), is the region in southwestern Vietnam where the Mekong River approaches and empties into the sea through a network of distributaries. The Mekong delta region encompasses a large portion of south-western Vietnam of over 40,500 km2 (15,600 sq mi).[3] The size of the area covered by water depends on the season. Its wet coastal geography makes it an important source of agriculture and aquaculture for the country.",
+        "imageName": "Mekongdelta"
+    },
+    {
+        "name": "Sapa",
+        "category": "Mountains",
+        "city": "Lào Cai",
+        "state": "Lào Cai",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": 103.873802,
+            "latitude": 22.356464
+        },
+        "description": "Sa Pa was a frontier and market and capital of former Sa Pa District in Lào Cai Province in north-west Vietnam. It was first inhabited by people about whom nothing is known. They left in the entire valley hundreds of petroglyphs, mostly composed of lines, which experts think date from the 15th century and represent local cadastres. Sa Pa is home to more than 200 pieces of boulders with ancient engravings. The Area of Old Carved Stone in Sapa has been in the UNESCO tentative list since 1997.[3] Then came the highland minorities of the Hmong, Yao (Dao), Giáy, Pho Lu, and Tày peoples, still present in Sa Pa district today. The Kinh (lowland Vietnamese) never originally colonised this highest of Việt Nam's valleys, which lies in the shadow of Phan-Xi-Pǎng (Fansipan, 3143 m), the highest peak in the country.[4]",
+        "imageName": "Sapa"
+    },
+    {
+        "name": "Phú Quốc",
+        "category": "Island",
+        "city": "Kien Giang",
+        "state": "Kien Giang",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": 103.9840,
+            "latitude": 10.2899
+        },
+        "description": "Phú Quốc (Vietnamese: [fǔ kǔə̯k]) is the largest island in Vietnam. Phú Quốc and nearby islands, along with the distant Thổ Chu Islands, are part of Kiên Giang Province as Phú Quốc City. The island has a total area of 589.27 km2 (227.52 sq mi) and a permanent population of approximately 179,480 people in 2020.[1][2] Located in the Gulf of Thailand, the island city of Phú Quốc includes the island proper and 21 smaller islets. Dương Đông ward, located on the island's west coast, is the island's administrative centre and largest town. The other ward is An Thới on the southern tip of the island.Its primary industries are fishing, agriculture, and a fast-growing tourism sector. Phú Quốc has achieved fast economic growth due to its current tourism boom. Many infrastructure projects have been carried out, including several five-star hotels and resorts. Phú Quốc International Airport is the hub connecting Phú Quốc with mainland Vietnam and other international destinations.",
+        "imageName": "Phuquoc"
+    },
+    {
+        "name": "Hoi An ancient city",
+        "category": "City",
+        "city": "Quang Nam",
+        "state": "Quang Nam",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": 108.3380,
+            "latitude": 15.8801
+        },
+        "description": "The town's historical significance is deeply rooted in its role as a thriving trading port from the 15th to the 20th century. During this period, Hoi An Ancient Town served as a vital hub for commerce, connecting European merchants with their Asian counterparts. Traders from China, Japan, and Portugal left their indelible marks on the town through a diverse array of architectural patterns. Recognizing the exceptional value of Hoi An Old Town, UNESCO designated it as a World Cultural Heritage site in 1999. This recognition underscores the town's status as a living museum, showcasing a wide range of construction designs and urban lifestyles from around the world.",
+        "imageName": "Hoian"
+    },
+    {
+        "name": "Da Nang",
+        "category": "city",
+        "city": "Da Nang",
+        "state": "Da Nang",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": 108.2022,
+            "latitude": 16.0544
+        },
+        "description": "The city was known as Cửa Hàn during early Đại Việt settlement, and as Tourane (or Turon) during French colonial rule. Before 1997, the city was part of Quang Nam - Da Nang Province. On 1 January 1997, Da Nang was separated from Quảng Nam Province to become one of four centrally controlled municipalities in Vietnam. Da Nang is designated as a first class city,[10] and has a higher urbanization ratio than any of Vietnam's other provinces or centrally governed cities.[11]",
+        "imageName": "Danang"
+    },
+    {
+        "name": "Da Lat",
+        "category": "Mountain",
+        "city": "Da Lat",
+        "state": "Lam Dong",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "",
+        "coordinates": {
+            "longitude": 108.4583,
+            "latitude": 11.9404
+        },
+        "description": "Da Lat or Dalat[2] (Vietnamese: Đà Lạt; Vietnamese pronunciation: [ɗâː làːt̚] ⓘ), is the capital of Lâm Đồng Province and the largest city of the Central Highlands region in Vietnam. The city is located 1,500 m (4,900 ft) above sea level on the Langbian Plateau. Da Lat is one of the most popular tourist destinations in Vietnam.[3][4]Da Lat's specific sights are pine woods and twisting roads full of marigold (Vietnamese: hoa dã quỳ) and mimosa blossom in the winter. The city's temperate weather stands in contrast to Vietnam's otherwise tropical climate. Mist covering the valleys almost year-round leads to its name City of Eternal Spring. Residents and tourists have often said that Da Lat has all four seasons in one day: spring in the morning, summer at noon, autumn in the afternoon and winter at night, from the sunset to the sunrise.",
+        "imageName": "Dalat"
+    }
+]
